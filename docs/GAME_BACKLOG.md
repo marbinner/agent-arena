@@ -10,7 +10,7 @@ This document lists candidate games for future implementation. The goal is to co
 - **Dots and Boxes** – claiming edges to complete squares.
 - **Hex** – path connection game on a rhombus board. (implemented)
 - **Dots and Boxes** – claiming edges to complete squares. (implemented)
-- **Mancala** – resource sowing and capture.
+- **Mancala** – resource sowing and capture. (implemented)
 - **Quoridor** – race to the opposite side while placing walls. (implemented)
 - **Ultimate TicTacToe** – tic-tac-toe boards inside a larger grid.
 

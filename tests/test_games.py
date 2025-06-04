@@ -1,5 +1,6 @@
 from arena.games.connect_four import ConnectFour
 from arena.games.nim import Nim
+from arena.games.quoridor import Quoridor
 
 
 def test_connect_four_vertical_win():
@@ -15,5 +16,15 @@ def test_nim_simple_win():
     game = Nim(total=3, max_take=3)
     state = game.reset()
     state = game.apply_action(state, "3")
+    assert game.is_terminal(state)
+    assert game.get_winner(state) == 0
+
+
+def test_quoridor_simple_race():
+    game = Quoridor(size=5, walls_per_player=0)
+    state = game.reset()
+    moves = ["D", "L", "D", "L", "D", "U", "D"]
+    for m in moves:
+        state = game.apply_action(state, m)
     assert game.is_terminal(state)
     assert game.get_winner(state) == 0

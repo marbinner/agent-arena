@@ -7,7 +7,8 @@ This document lists candidate games for future implementation. The goal is to co
 - **Chess (mini variant)** – simplified board for long-term planning.
 - **Gomoku** – five in a row on a 15x15 board.
 - **Othello** – flipping pieces to control territory.
-- **Hex** – path connection game on a rhombus board.
+- **Dots and Boxes** – claiming edges to complete squares.
+- **Hex** – path connection game on a rhombus board. (implemented)
 - **Dots and Boxes** – claiming edges to complete squares. (implemented)
 - **Mancala** – resource sowing and capture.
 - **Quoridor** – race to the opposite side while placing walls. (implemented)

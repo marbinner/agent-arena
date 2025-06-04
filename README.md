@@ -4,7 +4,7 @@ Agent Arena is a playground for evaluating language model agents through head-to
 
 The project is organized as a small Python package with a common interface for games and players. New games can be added by implementing the `Game` interface.
 
-Current built-in games include TicTacToe, Connect Four, and Nim.
+Current built-in games include TicTacToe, Connect Four, Nim, and Mancala.
 Planned games are listed in [docs/GAME_BACKLOG.md](docs/GAME_BACKLOG.md).
 
 If you'd like to contribute a new game, see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).

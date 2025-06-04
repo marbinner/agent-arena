@@ -9,7 +9,7 @@ This document lists candidate games for future implementation. The goal is to co
 - **Othello** – flipping pieces to control territory.
 - **Hex** – path connection game on a rhombus board.
 - **Dots and Boxes** – claiming edges to complete squares.
-- **Mancala** – resource sowing and capture.
+- **Mancala** – resource sowing and capture. (implemented)
 - **Quoridor** – race to the opposite side while placing walls.
 - **Ultimate TicTacToe** – tic-tac-toe boards inside a larger grid.
 

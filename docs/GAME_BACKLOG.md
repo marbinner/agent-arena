@@ -14,7 +14,7 @@ This document lists candidate games for future implementation. The goal is to co
 - **Ultimate TicTacToe** – tic-tac-toe boards inside a larger grid.
 
 ## Word and Deduction
-- **Word Ladder Duel** – players alternately change one letter to reach a goal word.
+- **Word Ladder Duel** – players alternately change one letter to reach a goal word. (implemented)
 - **Hangman** – guess the hidden word one letter at a time.
 - **Mastermind** – code-breaking with feedback.
 

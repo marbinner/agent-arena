@@ -6,8 +6,8 @@ This document lists candidate games for future implementation. The goal is to co
 - **Checkers** – classic 8x8 draughts game. (implemented)
 - **Chess (mini variant)** – simplified board for long-term planning. (implemented)
 - **Gomoku** – five in a row on a 15x15 board.
-- **Othello** – flipping pieces to control territory.
-- **Dots and Boxes** – claiming edges to complete squares.
+- **Othello** – flipping pieces to control territory. (implemented)
+- **Dots and Boxes** – claiming edges to complete squares. (implemented)
 - **Hex** – path connection game on a rhombus board. (implemented)
 - **Dots and Boxes** – claiming edges to complete squares. (implemented)
 - **Mancala** – resource sowing and capture. (implemented)

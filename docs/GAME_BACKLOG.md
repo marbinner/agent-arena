@@ -19,7 +19,7 @@ This document lists candidate games for future implementation. The goal is to co
 - **Mastermind** – code-breaking with feedback.
 
 ## Mathematical Puzzles
-- **Multi-heap Nim** – generalization of the existing single-heap Nim.
+- **Multi-heap Nim** (implemented) – generalization of the existing single-heap Nim.
 - **Sudoku Race** – players take turns filling numbers on a shared grid.
 
 These games span pure strategy, deduction, memory, and arithmetic reasoning.

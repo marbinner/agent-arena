@@ -35,7 +35,6 @@ agent-arena/
 
 ## Future Work
 
-- Implement additional games (e.g., Connect Four, Nim).
 - Add rating systems to track agent performance.
 - Provide a command-line interface to run matches and tournaments.
 - Explore reinforcement learning setups for automated prompt evolution.
